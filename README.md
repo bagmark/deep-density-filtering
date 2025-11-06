@@ -44,9 +44,13 @@ Implementations of the Ensemble Kalman Filter (EnKF), bootstrap Particle Filter 
 ## Used Libraries:
 
 python 3.12.10
+
 numpy 2.1.2
+
 scipy 1.15.3
+
 torch 2.7.1+cu118
+
 pandas 2.2.3
 
 ## Acknowledgements
