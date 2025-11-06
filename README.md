@@ -2,12 +2,12 @@
 
 Reference implementation for the Deep Splitting Filter (DSF), Backward Stochastic Differential Equation Filter (BSDEF) and their logarithmic variants, described in the articles: <br>
 
-> "A convergent scheme for the Bayesian filtering problem based on the Fokker--Planck equation and deep splitting"
-Kasper Bågmark, Adam Andersson, Stig Larsson, Filip Rydin
+> "A convergent scheme for the Bayesian filtering problem based on the Fokker--Planck equation and deep splitting."
+Kasper Bågmark, Adam Andersson, Stig Larsson, Filip Rydin.
 https://arxiv.org/abs/2409.14585 <br>
 
-> "Nonlinear filtering based on density approximation and deep BSDE prediction"
-Kasper Bågmark, Adam Andersson, Stig Larsson
+> "Nonlinear filtering based on density approximation and deep BSDE prediction."
+Kasper Bågmark, Adam Andersson, Stig Larsson.
 https://arxiv.org/abs/2508.10630 <br>
 
 > FILL IN
