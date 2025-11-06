@@ -41,7 +41,7 @@ Problems, e.g., OU, Bistable, Lorenz-96 are specified in the problems folder. Ea
 
 Implementations of the Ensemble Kalman Filter (EnKF), bootstrap Particle Filter (PF), Extended Kalman Filter (EKF) and standard Kalman Filter (KF) can be found in the benchmark_filters folder. See reference usage of these in the test_*.py files. 
 
-## Used Libraries:
+## Used Libraries
 
 python 3.12.10
 
