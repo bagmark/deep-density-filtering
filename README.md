@@ -59,9 +59,7 @@ pandas 2.2.3
 
 If you find this repository useful, please cite our article: <br>
 
-> "High-dimensional Bayesian filtering through deep density approximation."
-Kasper Bågmark, Filip Rydin.
-https://arxiv.org/abs/2511.07261 <br>
+> K. Bågmark, F. Rydin. "High-dimensional Bayesian filtering through deep density approximation". In *arXiv:2511.07261* (2025) <br>
 
 
 
