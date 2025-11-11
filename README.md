@@ -10,7 +10,9 @@ https://arxiv.org/abs/2409.14585 <br>
 Kasper Bågmark, Adam Andersson, Stig Larsson.
 https://arxiv.org/abs/2508.10630 <br>
 
-> FILL IN
+> "High-dimensional Bayesian filtering through deep density approximation."
+Kasper Bågmark, Filip Rydin.
+https://arxiv.org/abs/2511.07261 <br>
 
 The code is written in Python using Pytorch. 
 
@@ -57,7 +59,9 @@ pandas 2.2.3
 
 If you find this repository useful, please cite our article: <br>
 
-> FILL IN
+> "High-dimensional Bayesian filtering through deep density approximation."
+Kasper Bågmark, Filip Rydin.
+https://arxiv.org/abs/2511.07261 <br>
 
 
 
